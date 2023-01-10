@@ -2,7 +2,7 @@
 #include <stdlib.h>
 using namespace std;
 int main() {
-   char ch;// source_file[20], target_file[20];
+   char ch;
    FILE *source, *target;
    char source_file[]="x1.txt";
    char target_file[]="x2.txt";
